@@ -2,3 +2,4 @@ Sample file created
 Updated sample on master branch
 Updated on dev
 Updated sample on UAT branch
+Updated the sample file on master branch
