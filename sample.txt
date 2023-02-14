@@ -1,4 +1,4 @@
 Sample file created
 Updated sample on master branch
 Updated on dev
-
+Updated the sample file on master branch
